@@ -6,3 +6,17 @@
   grid-gap: 25px;
 
 }
+
+.large-container {
+  background-color: $light-green;
+  // padding: 0px 0px 0px 100px;
+  // display: flex;
+}
+
+
+.product-info {
+  display: flex;
+  flex-direction: column;
+}
+
+

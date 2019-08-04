@@ -9,16 +9,27 @@ si c'est le user qui a uploodé une image:
   > est-ce que c'est cloudinary qui va le faire?
 
 ________________________________________________________________________________________________________
-BANNER
+SEARCH FORM
 
 comment faire pour afficher cette putain de search ?
 et surtout la faire fonctionner >> il me faut une page ou un emplacement de réponse en fait?
+Est-ce que je dois mettre une méthode Search dans mon controller pour la search barre ?
+
 
 ________________________________________________________________________________________________________
 CSS
 
 Si je store mes variables dans colors.scss, comment les importer dans mes pages html? (ça ne marche pas)
+Bootstrap : si j'implémente une grid pour faire mon site, comment je peux ajuster les tailles des colonnes ? Est-ce que je peux ?
+> est-ce que faire des colonnes c'est pas trop rigide en fait ? maybe juste des rows at ensuite on flex les row?
 
 ________________________________________________________________________________________________________
 ROUTES
 Comment je mets le lien vers la home vu que c'est plus cocktails_path... routes_path?
+Est-ce que je dois mettre une méthode Search dans mon controller pour la search barre ?
+Comment mettre le formulaire "Add a new dose" de View/Doses/New en "render" dans la page show cocktail ?
+  Est-ce que je dois d'abord changer la route?
+
+________________________________________________________________________________________________________
+OU EST-CE QUE JE DOIS METTRE FONTAWESOME ????
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css">
